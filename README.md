@@ -2,10 +2,6 @@
 <!-- <img src="https://media1.tenor.com/m/Jat0oxpwUIcAAAAd/fruits-basket-furuba.gif" width="900"> -->
 <img src="https://media1.tenor.com/m/Bkblnhb3kAYAAAAC/adjusting-the-glasses-taro-sakamoto.gif" width="900">
 
-<div align="center">
-<img src="https://img.shields.io/badge/count-00001-2f2f2f?style=for-the-badge&labelColor=111111&color=2f2f2f&logoColor=ffffff&label=count
-"
-
 </div>
 
 Hi there! You've just entered the land of semi-functional code and eternal debugging.
