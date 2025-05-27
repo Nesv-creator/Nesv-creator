@@ -10,10 +10,9 @@
 
 Hi there! You've just entered the land of semi-functional code and eternal debugging.
 
-### <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="20" /> &nbsp; Tech Stack
+### <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="20" /> &nbsp; Teh bang?
 
-**Languages:** Python
-**Tools:** nmap, exploit
+**Languages:** Python    **Tools:** nmap, exploit
 
 
 
